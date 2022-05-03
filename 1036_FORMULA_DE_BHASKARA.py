@@ -8,6 +8,9 @@ a = float(a)
 b = float(b)
 c = float(c)
 
+x1 = float (x1)
+x2 = float (x2)
+
 if (a == 0) or (b**2 - 4*a*c) < 0:
     print('Impossivel calcular')
 else:
